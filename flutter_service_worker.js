@@ -12,11 +12,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "e1381d50c7d9b212f77e50b7ed77440e
 "assets/assets/images/logo/istasherni_logo_white.png": "d161f064fd90af169da5cd1d9b62961c",
 "assets/FontManifest.json": "66b71d2bcd2b436ab06cceee43157084",
 "assets/fonts/MaterialIcons-Regular.otf": "599edf9e1635f315bf16b106817a8420",
-"assets/NOTICES": "187d80da2a118fb28bc98121da6c5972",
+"assets/NOTICES": "b85c32e3fad0196a7d66982942f9bf0a",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
-"assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.css": "5a8d0222407e388155d7d1395a75d5b9",
-"assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.html": "16911fcc170c8af1c5457940bd0bf055",
-"assets/packages/flutter_inappwebview_web/assets/web/web_support.js": "ffd063c5ddbbe185f778e7e41fdceb31",
 "assets/packages/ionicons/assets/fonts/Ionicons.ttf": "757f33cf07178f986e73b03f8c195bd6",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "canvaskit/canvaskit.js": "c86fbd9e7b17accae76e5ad116583dc4",
@@ -37,7 +34,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "e1381d50c7d9b212f77e50b7ed77440e
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "4b8ce6b3ed52fcd60c4d9fb0842a6f51",
 "/": "4b8ce6b3ed52fcd60c4d9fb0842a6f51",
-"main.dart.js": "90428f348838909a4cf80d5d82417937",
+"main.dart.js": "55c09f14e875a8fb39819b62635e8be0",
 "manifest.json": "4778ef87b29ed28e6a6f63e27c1e63be",
 "version.json": "60d23d36440f2c621526fc98e91586d9"};
 // The application shell files that are downloaded before a service worker can

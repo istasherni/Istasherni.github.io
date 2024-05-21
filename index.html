@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <!--
       If you are serving your web app in a path other than the root, change the
@@ -32,25 +32,23 @@
 
     <title>istasherni</title>
     <link rel="manifest" href="manifest.json">
-
+    
     <script>
         function isTouchpad(event) {
-          if (event.pointerType === 'touch') {
-            return true;
-          }
-          if (event.pointerType === 'mouse') {
-            return false;
-          }
-          // Additional logic can be added here if needed
+            if (event.pointerType === 'touch') {
+                return true;
+            }
+            if (event.pointerType === 'mouse') {
+                return false;
+            }
+            // Additional logic can be added here if needed
         }
 
         function listenForScrollEvents() {
-          window.addEventListener('pointermove', function(event) {
-            const touchpad = isTouchpad(event);
-            if (window.flutter_inappwebview) {
-              window.flutter_inappwebview.callHandler('touchpadDetection', touchpad);
-            }
-          });
+            window.addEventListener('pointermove', function(event) {
+                const touchpad = isTouchpad(event);
+                window.postMessage({ type: 'touchpadDetection', touchpad: touchpad }, '*');
+            });
         }
 
         window.onload = listenForScrollEvents;

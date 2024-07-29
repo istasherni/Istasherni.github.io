@@ -3,13 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "ad2305888bfc23ba4a8c97f7bd7fca7e",
-"assets/AssetManifest.bin.json": "fd420ffeb5b790fd5772195fe2c09a33",
-"assets/AssetManifest.json": "2fc8dd4749ed107d41aa0320c2725ee8",
+const RESOURCES = {"assets/AssetManifest.bin": "44f7d3f4af4eba6235ead5b5b095cfd4",
+"assets/AssetManifest.bin.json": "a94525ccc57e38309ba95c3cd6257ed5",
+"assets/AssetManifest.json": "8134d7e8e293e8edbbb71b4f201e6f4f",
 "assets/assets/images/cases_Images/cases1.png": "a6b4497154bf220ae62ed4556fe4f2bb",
 "assets/assets/images/cases_Images/cases2.png": "44c9ab545fb1109dd2f79d66f5db84fd",
 "assets/assets/images/cases_Images/cases3.png": "bc5d2c45a7d918b6e3e82acab9799946",
 "assets/assets/images/cases_Images/cases4.png": "093ccb6d3e9b243f731e5fe3cc3c2d90",
+"assets/assets/images/cases_Images/cases5.png": "4dd25b86ba3fa2bbe0b43b8f1e7c136d",
+"assets/assets/images/cases_Images/cases6.png": "4c9cbc48f30b27231964fb752c6adf53",
 "assets/assets/images/hero_image.png": "97bd5002e7f9c248f119284d086a69fd",
 "assets/assets/images/icons/quote.png": "28bb1abd3c1d5a87a60ba8010ccd25be",
 "assets/assets/images/logo/istasherni_logo.png": "fc4821cdb0253720522df41330318a8f",
@@ -35,7 +37,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "ad2305888bfc23ba4a8c97f7bd7fca7e
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
-"flutter_bootstrap.js": "ef6aa130a00e0fe27796bec2495aa399",
+"flutter_bootstrap.js": "e9c140ee49db44c06bdda9713070b227",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -43,7 +45,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "ad2305888bfc23ba4a8c97f7bd7fca7e
 "index.html": "8ada49f117c543eed78bd59bd6bfa483",
 "/": "8ada49f117c543eed78bd59bd6bfa483",
 "istasherni_logo.png": "4d0f9170b94b50d8053f8a2b24200168",
-"main.dart.js": "d99154c771cd30f5d373a34fcef0b7fe",
+"main.dart.js": "f14c3df6b3aab6526927d59bb89db3cd",
 "manifest.json": "4778ef87b29ed28e6a6f63e27c1e63be",
 "style.css": "60f5c0aedfe4578be4800279416f7823",
 "version.json": "60d23d36440f2c621526fc98e91586d9"};

@@ -23763,7 +23763,7 @@ _.a=a
 _.b=b
 _.c=c
 _.d=d},
-aIJ(a,b,c){J.aM8(new self.Stripe("pk_test_51MnnBFCTbXBN9LA182yOEXBUHiAnqRq6kUK87ucwEhxhnzPr3Ticmu8ETMyIJcTQznm8Zv5LySSQlA3TE3QCR4Wx00HvF11Vgz"),{lineItems:A.b([{price:a,quantity:b}],t.ol),mode:"payment",successUrl:"https://istasherni.com/success",cancelUrl:"https://istasherni.com/"})
+aIJ(a,b,c){J.aM8(new self.Stripe("pk_test_51MnnBFCTbXBN9LA182yOEXBUHiAnqRq6kUK87ucwEhxhnzPr3Ticmu8ETMyIJcTQznm8Zv5LySSQlA3TE3QCR4Wx00HvF11Vgz"),{lineItems:A.b([{price:a,quantity:b}],t.ol),mode:"payment",successUrl:"https://istasherni.com/complete",cancelUrl:"https://istasherni.com/"})
 A.lx(B.h8,c,t.H)},
 akL:function akL(){},
 a36:function a36(){},
@@ -84211,10 +84211,10 @@ h=r-3
 g=s-20
 return A.cc(new A.ba(new A.ax(p,0,p,0),A.bD(A.b([new A.h2(2,B.c9,n,f),new A.h2(2,B.c9,m,f),new A.h2(1,B.c9,new A.ba(B.ES,A.au(A.b([l,A.au(A.b([k,j,A.ays(A.bl(f,f,B.p,f,f,f,f,f,f,f,f,f,f),A.I(e,f,f,f,!0,q,f,f),i,B.jt)],o),B.o,B.m,B.i),A.au(A.b([A.bD(A.b([A.au(A.b([A.I("cases\nhandled",f,f,f,f,A.dL().$3$color$fontSize$fontWeight(B.q,h,B.U),f,f),B.X,A.I("10K+",f,f,f,f,A.dL().$3$color$fontSize$fontWeight(B.q,g,B.U),f,f)],o),B.u,B.m,B.i),A.au(A.b([A.I("satisfaction\nrate",f,f,f,f,A.dL().$3$color$fontSize$fontWeight(B.q,h,B.U),f,f),B.X,A.I("98%",f,f,f,f,A.dL().$3$color$fontSize$fontWeight(B.q,g,B.U),f,f)],o),B.u,B.m,B.i)],o),B.o,B.ag,B.i),B.eQ],o),B.o,B.m,B.i)],o),B.o,B.ag,B.i),f),f)],o),B.dD,B.m,B.i),f),d.a.b-100,1/0)}}
 A.a8S.prototype={
-$0(){A.afv(this.a,"/success",t.X).bx(new A.a8R(),t.P)},
+$0(){A.afv(this.a,"/complete",t.X).bx(new A.a8R(),t.P)},
 $S:3}
 A.a8R.prototype={
-$1(a){A.dg("Navigated to /success")},
+$1(a){A.dg("Navigated to /complete")},
 $S:60}
 A.a8T.prototype={
 $0(){var s=A.a6(this.a,!1,t.j)
@@ -84585,7 +84585,7 @@ $0(){this.a.d=this.b},
 $S:0}
 A.Nb.prototype={
 F(a){var s=null,r=A.b([A.k4(new A.afa(),t.gr),A.k4(new A.afb(),t.f4),A.k4(new A.afc(),t.j),A.k4(new A.afg(),t.YM),A.k4(new A.afh(),t.R),A.k4(new A.afi(),t.Q),A.k4(new A.afj(),t.Fp),A.k4(new A.afk(),t.Yk),A.k4(new A.afl(),t.l),A.k4(new A.afm(),t.b),A.k4(new A.afn(),t.j4)],t.Ds)
-return A.aPK(new A.AE(A.aq(["/",new A.afd(),"/success",new A.afe(),"/mobileConsultation",new A.aff()],t.N,t.Ab),"/","Istasherni",A.vD(s,A.aCg(B.aj,s,s,B.az),!0),s),r)}}
+return A.aPK(new A.AE(A.aq(["/",new A.afd(),"/complete",new A.afe(),"/mobileConsultation",new A.aff()],t.N,t.Ab),"/","Istasherni",A.vD(s,A.aCg(B.aj,s,s,B.az),!0),s),r)}}
 A.afa.prototype={
 $1(a){$.k0()
 return new A.r4(B.bS,new A.i_(0))},

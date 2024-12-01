@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "5bf8cabb5488b1f16f384682c1d41c71",
+const RESOURCES = {"flutter_bootstrap.js": "dd2fc18dc72ce4642ed55c8530dc6ffe",
 "version.json": "60d23d36440f2c621526fc98e91586d9",
 "index.html": "5fe987d659d7dd7d3e6819d53a448bf0",
 "/": "5fe987d659d7dd7d3e6819d53a448bf0",
-"main.dart.js": "0797392e51708873ff889dd449d0b794",
+"main.dart.js": "b74538515e5082b3be9ef3dbc2ae5ca5",
 "istasherni_logo.png": "4d0f9170b94b50d8053f8a2b24200168",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -18,7 +18,7 @@ const RESOURCES = {"flutter_bootstrap.js": "5bf8cabb5488b1f16f384682c1d41c71",
 "style.css": "199dd858676bd806182d878ffd52c568",
 "manifest.json": "35f7d11c9ab99b66c28fbeb1d3c8a3af",
 "assets/AssetManifest.json": "7b4369cb81393a2ffad68d0cbb81b5ba",
-"assets/NOTICES": "7ba1d607c5db782746943bf257264208",
+"assets/NOTICES": "4a30843c5d4392e894e0f6eda2374e9c",
 "assets/FontManifest.json": "66b71d2bcd2b436ab06cceee43157084",
 "assets/AssetManifest.bin.json": "d752a5bc85606f3faf12aebd362ae4b9",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
